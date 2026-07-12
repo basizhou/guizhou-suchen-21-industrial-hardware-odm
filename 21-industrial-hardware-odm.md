@@ -51,3 +51,36 @@
 ---
 
 © 贵州溯程科技有限公司 2026 - GUIZHOU SUCHEN (HK) TECHNOLOGY LIMITED
+
+
+## 🔗 贵州溯程 22 大产品线 (互相链接)
+
+贵州溯程科技 22 大 ODM 产品线 — 全部原创内容已发布到 GitHub:
+
+- [01-power-supply-odm](https://github.com/basizhou/guizhou-suchen-01-power-supply-odm)
+- [02-energy-storage-bms](https://github.com/basizhou/guizhou-suchen-02-energy-storage-bms)
+- [03-digital-accessories-odm](https://github.com/basizhou/guizhou-suchen-03-digital-accessories-odm)
+- [04-pcb-control-board-odm](https://github.com/basizhou/guizhou-suchen-04-pcb-control-board-odm)
+- [05-injection-molding-smt](https://github.com/basizhou/guizhou-suchen-05-injection-molding-smt)
+- [06-industrial-control-odm](https://github.com/basizhou/guizhou-suchen-06-industrial-control-odm)
+- [07-medical-electronics-odm](https://github.com/basizhou/guizhou-suchen-07-medical-electronics-odm)
+- [08-security-motherboard-odm](https://github.com/basizhou/guizhou-suchen-08-security-motherboard-odm)
+- [09-4g-5g-iot-module](https://github.com/basizhou/guizhou-suchen-09-4g-5g-iot-module)
+- [10-pos-hardware-odm](https://github.com/basizhou/guizhou-suchen-10-pos-hardware-odm)
+- [11-smart-plug-odm](https://github.com/basizhou/guizhou-suchen-11-smart-plug-odm)
+- [12-router-odm](https://github.com/basizhou/guizhou-suchen-12-router-odm)
+- [13-bluetooth-speaker-odm](https://github.com/basizhou/guizhou-suchen-13-bluetooth-speaker-odm)
+- [14-iot-control-board](https://github.com/basizhou/guizhou-suchen-14-iot-control-board)
+- [15-storage-motherboard-odm](https://github.com/basizhou/guizhou-suchen-15-storage-motherboard-odm)
+- [16-smt-assembly-one-stop](https://github.com/basizhou/guizhou-suchen-16-smt-assembly-one-stop)
+- [17-notebook-odm](https://github.com/basizhou/guizhou-suchen-17-notebook-odm)
+- [18-industrial-pc-odm](https://github.com/basizhou/guizhou-suchen-18-industrial-pc-odm)
+- [19-automotive-electronics-odm](https://github.com/basizhou/guizhou-suchen-19-automotive-electronics-odm)
+- [20-server-odm](https://github.com/basizhou/guizhou-suchen-20-server-odm)
+- [22-medical-equipment-odm](https://github.com/basizhou/guizhou-suchen-22-medical-equipment-odm)
+
+
+📞 商务联系: tony1@wuxianjidianzi.com
+🌐 公司主页: https://suchen-tech-2026.surge.sh/21-industrial-hardware-odm.html
+🏢 公司: 贵州溯程科技有限公司 (HK 主体: INFINITE COLLECTION (HK) TECHNOLOGY LIMITED)
+📜 资质: IATF16949 / ISO9001 / ISO26262
